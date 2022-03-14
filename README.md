@@ -15,8 +15,7 @@
 <br>
 
 <p align="center">
-  <img alt="OriginSix" src="![img](https://user-images.githubusercontent.com/99194211/158242543-b25b16ed-fd08-4ac6-8aa3-150b7823df40.png)
-" width="100%">
+  <img alt="OriginSix" src="https://user-images.githubusercontent.com/99194211/158243098-b64593dd-9a3a-49f8-a001-ebc0ee8a2c75.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
